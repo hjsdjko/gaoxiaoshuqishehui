@@ -1,0 +1,85 @@
+{
+  "pages": [
+    "pages/login/login",
+    "pages/register/register",
+    "pages/forget/forget",
+    "pages/center/center",
+    "pages/user-info/userinfo",
+    "pages/forum-index/forum-index",
+    "pages/forum-detail/forum-detail",
+    "pages/forum-reply/forum-reply",
+    "pages/forum-list/list",
+    "pages/forum-my/forum-my",
+    "pages/forum-add-or-update/forum-add-or-update",
+    "pages/huodongbaoming/list",
+    "pages/huodongbaoming/add-or-update",
+    "pages/huodongbaoming/detail",
+    "pages/huodongfabu/list",
+    "pages/huodongfabu/add-or-update",
+    "pages/huodongfabu/detail",
+    "pages/juanzheng/list",
+    "pages/juanzheng/add-or-update",
+    "pages/juanzheng/detail",
+    "pages/news/list",
+    "pages/news/add-or-update",
+    "pages/news/detail",
+    "pages/xuesheng/list",
+    "pages/xuesheng/add-or-update",
+    "pages/xuesheng/detail",
+    "pages/youxiushiji/list",
+    "pages/youxiushiji/add-or-update",
+    "pages/youxiushiji/detail",
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "gaoxiaoshuqishehui",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#ffffff",
+    "selectedColor": "#000000",
+    "borderStyle": "black",
+    "backgroundColor": "#669999",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/tabs/index.png",
+        "selectedIconPath": "static/tabs/index1.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/huodongfabu/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "活动报名"
+      },
+      {
+        "pagePath": "pages/juanzheng/list",
+        "iconPath": "static/tabs/type.png",
+        "selectedIconPath": "static/tabs/type1.png",
+        "text": "爱心捐物"
+      },
+      {
+        "pagePath": "pages/forum-index/forum-index",
+        "iconPath": "static/tabs/order.png",
+        "selectedIconPath": "static/tabs/order1.png",
+        "text": "心得交流"
+      },
+      {
+        "pagePath": "pages/center/center",
+        "iconPath": "static/tabs/mine.png",
+        "selectedIconPath": "static/tabs/mine1.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-load-more": "/components/mescroll-uni/mescroll-uni",
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  },
+  "sitemapLocation": "sitemap.json"
+}

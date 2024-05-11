@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+
+
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+
+    ,{
+		"path": "pages/forum-index/forum-index",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	},{
+		"path": "pages/forum-detail/forum-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "论坛发帖详情"
+		}
+	},{
+		"path": "pages/forum-reply/forum-reply",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "回复评论"
+		}
+	},{
+		"path": "pages/forum-list/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	},{
+		"path": "pages/forum-my/forum-my",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	},{
+		"path": "pages/forum-add-or-update/forum-add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的发布"
+		}
+	}
+	,{
+		"path": "pages/huodongbaoming/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动报名展示"
+		}
+	},{
+		"path": "pages/huodongbaoming/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动报名添加"
+		}
+	},{
+		"path": "pages/huodongbaoming/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动报名详情"
+		}
+	}
+	,{
+		"path": "pages/huodongfabu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动发布展示"
+		}
+	},{
+		"path": "pages/huodongfabu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动发布"
+		}
+	},{
+		"path": "pages/huodongfabu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动发布详情"
+		}
+	}
+	,{
+		"path": "pages/juanzheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "爱心捐物展示"
+		}
+	},{
+		"path": "pages/juanzheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "爱心捐物"
+		}
+	},{
+		"path": "pages/juanzheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "爱心捐物详情"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动宣传展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动宣传添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "活动宣传详情"
+		}
+	}
+	,{
+		"path": "pages/xuesheng/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生展示"
+		}
+	},{
+		"path": "pages/xuesheng/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生添加"
+		}
+	},{
+		"path": "pages/xuesheng/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "学生详情"
+		}
+	}
+	,{
+		"path": "pages/youxiushiji/list",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "优秀事迹栏目展示"
+		}
+	},{
+		"path": "pages/youxiushiji/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "优秀事迹栏目添加"
+		}
+	},{
+		"path": "pages/youxiushiji/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "优秀事迹栏目详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#669999",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "gaoxiaoshuqishehui",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#ffffff",
+		"selectedColor": "#000000",
+		"borderStyle": "black",
+		"backgroundColor": "#669999",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/huodongfabu/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "活动报名"
+			}
+			,{
+				"pagePath": "pages/juanzheng/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "爱心捐物"
+			}
+			,{
+			 	"pagePath": "pages/forum-index/forum-index",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "心得交流"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
